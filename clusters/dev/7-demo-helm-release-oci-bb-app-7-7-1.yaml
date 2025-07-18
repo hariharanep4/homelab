@@ -13,6 +13,8 @@ spec:
         kind: HelmRepository
         name: 7-demo-source-oci-helm-bb-app-7-7-1
       version: 7.7.1
+  install:
+    createNamespace: true
   interval: 1m0s
   targetNamespace: 7-demo
   values:
