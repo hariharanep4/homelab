@@ -6,7 +6,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  path: ./infrastructure
+  path: ./infrastructure/dev
   prune: true
   retryInterval: 30s
   sourceRef:
