@@ -5,3 +5,5 @@ resources:
   - cert-manager/
   - sealed-secrets/
   - metrics-server/
+  - kyverno/
+  - kyverno-policies/
