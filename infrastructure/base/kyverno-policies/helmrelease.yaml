@@ -16,5 +16,5 @@ spec:
   dependsOn:
   - name: kyverno
   interval: 10m0s
-  releaseName: kyverno
+  releaseName: kyverno-policies
   targetNamespace: kyverno
