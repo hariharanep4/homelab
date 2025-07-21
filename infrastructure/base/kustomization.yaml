@@ -4,3 +4,4 @@ resources:
   - ingress-nginx/
   - cert-manager/
   - sealed-secrets/
+  - metrics-server/
