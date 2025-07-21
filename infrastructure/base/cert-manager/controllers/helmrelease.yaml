@@ -66,6 +66,7 @@ spec:
     serviceAccount:
       automountServiceAccountToken: false
     startupapicheck:
+      timeout: 5m
       automountServiceAccountToken: false
       serviceAccount:
         automountServiceAccountToken: false
