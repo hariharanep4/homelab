@@ -15,6 +15,7 @@ spec:
       version: 4.11.x
   install:
     crds: Create
+    createNamespace: true
   interval: 1h0m0s
   releaseName: ingress-nginx
   targetNamespace: ingress-nginx
